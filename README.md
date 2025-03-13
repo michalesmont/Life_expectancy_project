@@ -43,10 +43,10 @@ The full set of files assigned to the project available in this repository is li
 
 ## Results<a name="results"></a>
 
-The main findings of the project can be found at the blog post [https://medium.com/@esmi90/do-you-want-to-live-longer-move-to-hong-kong-83917fd156a9](https://medium.com/@esmi90/do-you-want-to-live-longer-move-to-hong-kong-83917fd156a9). 
+The main findings of the project can be found at the blog post [https://medium.com/@esmi90/do-you-want-to-live-longer-move-to-hong-kong-83917fd156a9].
  
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-The dataset used for the following project has been created thanks to the data provided by [https://databank.worldbank.org]https://databank.worldbank.org. You can find the Licensing for the source data and other descriptive information [https://www.worldbank.org/en/about/legal/terms-of-use-for-datasets]https://www.worldbank.org/en/about/legal/terms-of-use-for-datasets.
+The dataset used for the following project has been created thanks to the data provided by [https://databank.worldbank.org]. You can find the Licensing for the source data and other descriptive information [https://www.worldbank.org/en/about/legal/terms-of-use-for-datasets].
 
