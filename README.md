@@ -1,4 +1,3 @@
-
 ### Table of Contents
 
 1. [Installation](#installation)
@@ -17,8 +16,8 @@ For this project, I used the World Bank data from 2018 regarding over 200 counti
 
 1. Do the economic indicators correspond to the life expectancy?
 2. Can government expenditures extend your life?
-3. Can you mathematically estimate how long will you live?
-4. What is Human Capital Index and how the productivity describes your future?
+3. Can you mathematically estimate how long you will live?
+4. What is the Human Capital Index and how does productivity describe your future?
 5. How many aspects should you take under consideration to predict the life expectancy?
 
 ## File Descriptions <a name="files"></a>
@@ -30,9 +29,9 @@ Each of the notebooks is exploratory in searching through the data in the order 
 2. Data cleaning
 3. Data exploration
 4. Model training and evaluation
-    4.1. Full features model 
-    4.2. Single feature model
-    4.3. Single feature model - different scenario
+    4. 1. Full features model 
+    4. 2. Single feature model
+    4. 3. Single feature model - different scenario
 
 The full set of files assigned to the project available in this repository is listed below:
 
@@ -43,10 +42,12 @@ The full set of files assigned to the project available in this repository is li
 
 ## Results<a name="results"></a>
 
-The main findings of the project can be found at the blog post [https://medium.com/@esmi90/do-you-want-to-live-longer-move-to-hong-kong-83917fd156a9].
+The main findings of the project can be found at the blog post: https://medium.com/@esmi90/do-you-want-to-live-longer-move-to-hong-kong-83917fd156a9
  
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-The dataset used for the following project has been created thanks to the data provided by [https://databank.worldbank.org]. You can find the Licensing for the source data and other descriptive information [https://www.worldbank.org/en/about/legal/terms-of-use-for-datasets].
+The dataset used for the following project has been created thanks to the data provided by https://databank.worldbank.org. Here you can find the Licensing for the source data and other descriptive information: https://www.worldbank.org/en/about/legal/terms-of-use-for-datasets
+
+
 
