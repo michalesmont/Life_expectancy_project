@@ -29,9 +29,12 @@ Each of the notebooks is exploratory in searching through the data in the order 
 2. Data cleaning
 3. Data exploration
 4. Model training and evaluation
-    4. 1. Full features model 
-    4. 2. Single feature model
-    4. 3. Single feature model - different scenario
+   
+    4.1. Full features model
+    
+    4.2. Single feature model
+   
+    4.3. Single feature model - different scenario
 
 The full set of files assigned to the project available in this repository is listed below:
 
