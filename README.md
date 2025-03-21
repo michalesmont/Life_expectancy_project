@@ -12,14 +12,14 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 ## Project Motivation<a name="motivation"></a>
 
-The general purpose of the project assumes finding relations between economic indices of the countries and the life expectancy of citizens. For a better understanding of the foundation of analysis, the main goals were formulated into key questions. 
+The general purpose of the project assumes finding relations between economic indices of the countries and the life expectancy of citizens. For a better understanding of the foundation of analysis, the main goals were formulated into key questions: 
 
 1. Do the economic indices correspond to the life expectancy?
 2. How precisely can we estimate the life expectancy using the model's prediction?
 3. How many features should we take under consideration to predict life expectancy?
 4. How does the handling of missing values in a dataset affect the model's response?
 
-Data required for the project: World Bank dataset from 2018 regarding 217 countries (222 rows, 15 columns), including various economic indices (features) and life expectancy values (target).
+Data required for the project: World Bank dataset from 2018 regarding 217 countries (222 rows, 15 columns), including various economic indices (features) and life expectancy values (target). 
 
 ## File Descriptions <a name="files"></a>
 
