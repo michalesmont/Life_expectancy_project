@@ -26,11 +26,6 @@ Data required for the project: World Bank dataset from 2018 regarding 217 countr
 There is a Notebook and 2 additional files available here to summarise the work package related to the questions raised above.  
 The notebook is exploratory in searching through the data in the order defined below:
 
-1. Business Understanding
-2. Data Understanding
-3. Data Preparation
-4. Data Modelling
-5. Evaluation
 
 The full set of files assigned to the project available in this repository is listed below:
 
