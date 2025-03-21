@@ -23,7 +23,7 @@ Data required for the project: World Bank dataset from 2018 regarding 217 countr
 
 ## File Descriptions <a name="files"></a>
 
-There is a Notebook and 2 additional files available here to summarise the work package related to the questions raised above.  
+There is a Notebook and 2 additional files available here to summarize the work package related to the questions raised above.  
 The notebook is exploratory in searching through the data in the order defined below:
 
 1. Business Understanding
