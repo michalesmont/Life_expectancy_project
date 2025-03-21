@@ -12,7 +12,7 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 ## Project Motivation<a name="motivation"></a>
 
-The general purpose of the project assumes finding relations between economic indices of the countries and the life expectancy of citizens. For a better understanding of the foundation of analysis, the main goals were formulated into key questions. 
+The general purpose of the project assumes finding relations between economic indices of the countries and the life expectancy of citizens. For a better understanding of the foundation of analysis, the main goals were formulated into key questions: 
 
 1. Do the economic indices correspond to the life expectancy?
 2. How precisely can we estimate the life expectancy using the model's prediction?
